@@ -7,11 +7,11 @@ A simple wearable step counter project using an accelerometer sensor and OLED di
 This project is a **step counter** that uses an **accelerometer sensor** to detect and count steps, while displaying real-time data on an **OLED screen**. It’s designed as a simple wearable prototype that helps monitor movement without needing a smartphone app.  
 
 ## Features  
-- Counts steps using accelerometer readings 📊  
-- Displays live step count on the OLED screen 🖥️  
-- Power ON/OFF control with switch 🔌  
-- Reset button to clear step count ♻️  
-- Low-cost, beginner-friendly wearable prototype 👟  
+- Counts steps using accelerometer readings   
+- Displays live step count on the OLED screen   
+- Power ON/OFF control with switch   
+- Reset button to clear step count   
+- Low-cost, beginner-friendly wearable prototype   
 
 ## Components Used  
 **Hardware**  
